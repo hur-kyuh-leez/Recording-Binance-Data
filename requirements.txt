@@ -1,0 +1,6 @@
+APScheduler==3.5.3
+binance==0.3
+freeze==1.0.10
+pytz==2018.5
+six==1.11.0
+tzlocal==1.5.1
